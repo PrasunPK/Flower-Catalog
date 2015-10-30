@@ -40,7 +40,7 @@ serverModule.makeParagraph = function(text){
 };
 
 serverModule.decorateText = function(data){
-	return serverModule.replaceJoiners(data[0]) + ' ' + serverModule.replaceJoiners(data[1])+'\n';
+	return '<b>' + serverModule.replaceJoiners(data[0]) + '</b> ' + serverModule.replaceJoiners(data[1])+'\n';
 };
 
 serverModule.getReversedList = function(text){
