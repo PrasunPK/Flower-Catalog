@@ -1,0 +1,52 @@
+.wrapper{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.wrapper .left{
+	float: left;
+	width: auto;
+
+}
+
+.wrapper .right{
+	float: left;
+	width: auto;
+	margin-top: 250px; 
+
+}
+
+.wrapper-flower-1{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.wrapper-flower-1 .left{
+	float: left;
+	width: auto;
+}
+
+.wrapper-flower-1 .right{
+	float: left;
+	width: 620px;
+	padding: 10px;
+	margin-top: 250px; 
+}
+
+
+.wrapper-flower-2{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.wrapper-flower-2 .left{
+	float: left;
+	width: auto;
+}
+
+.wrapper-flower-2 .right{
+	float: left;
+	width: 380px;
+	padding: 10px;
+	margin-top: 180px; 
+}
